@@ -48,4 +48,10 @@ benchmark/data/
 benchmark/exec/
 www/
 
+# editors
+.vscode/
+.vslick/
 
+# cmake build
+build/
+install/

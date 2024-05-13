@@ -1,0 +1,10 @@
+prefix=@CMAKE_INSTALL_PREFIX@
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: tommyds
+Description: C library of array, hashtable, and trie data structures
+URL: https://github.com/amadvance/tommyds.git
+Version: @PROJECT_VERSION@
+Libs: -L${libdir} -ltarget_utils
+Cflags: -I${includedir}
