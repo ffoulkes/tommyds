@@ -1,4 +1,4 @@
-# Copyright 2021-2024 Intel Corporation
+# Copyright 2024 Intel Corporation
 # SPDX-License-Identifier: Apache-2.0
 
 cmake_minimum_required(VERSION 3.15)
